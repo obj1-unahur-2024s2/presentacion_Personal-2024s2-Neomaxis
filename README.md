@@ -8,7 +8,7 @@ aunque en principio me decico a otra area, no descarto poder desarrollarme mas a
 
 ![](./assets/maxi.jpg)
 
-## Cosas que me gustan:
+### Cosas que me gustan:
 * Estar con mi familia
 * Jugar al handball
 * Peliculas y series de ciencia ficcion y fantasia medieval.
@@ -17,6 +17,9 @@ aunque en principio me decico a otra area, no descarto poder desarrollarme mas a
 * Zelda Fan
 
 
-## Algunas de mis redes, aunque soy mas lector que publicador:
+### Algunas de mis redes, aunque soy mas lector que publicador:
 - [x] [X/Twitter](https://x.com/Neomaxis)
 - [x] [Instagram](https://instagram.com/neomaxis)
+
+
+Saludos!
