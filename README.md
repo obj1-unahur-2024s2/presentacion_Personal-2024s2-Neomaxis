@@ -6,7 +6,7 @@ Hola a todos, mi nombre es
 Tengo 39 años, soy de Hurlingham y estoy cursando el segundo año de la tecnicatura en programación. Es un tema que siempre me ha interesado y 
 aunque laboralmente me dedico a otra área, no descarto poder desarrollarme mas adelante en el área de la programación.
 
-![](./assets/maxi.jpg)
+![Foto](./assets/maxi.jpg)
 
 ### Cosas que me gustan:
 * Estar con mi familia
